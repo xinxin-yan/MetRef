@@ -1,5 +1,3 @@
-# MetRef (from June 2021 - present)
-
 This is an ongoing research project investigating the online processing of referential metaphors, predicative metaphors, and metonymys.  
 The repository contains:
 - **Experimental stimuli** used in self-paced reading and eye-tracking studies.
